@@ -4,13 +4,18 @@ Todo Management WebApp is a full-stack application that allows users to manage t
 
 ## Features
 
--   User Authentication
--   Add New Todos
--   Edit Existing Todos
--   Delete Todos
--   Mark Todos as Completed
--   Responsive Design
--   User-friendly UI
+-   [x] User Authentication
+-   [x] Add New Todos
+-   [ ] Edit Existing Todos
+-   [x] Delete Todos
+-   [x] Mark Todos as Completed
+-   [ ] Responsive Design
+-   [x] User-friendly UI
+-   [ ] Priority Levels
+-   [ ] Due Dates and Reminders
+-   [ ] Categories and Tags
+-   [ ] Attachments
+        and many more to be added...
 
 ## Tech Stack
 
